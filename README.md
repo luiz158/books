@@ -27,7 +27,7 @@ Books I have read
 
 | Number | Name | Finished | Author |
 | :---: | :--- | :---: | :---: |
-| 01 | [Google Android: crie aplicações para celulares e tablets](http://www.casadocodigo.com.br/products/livro-android) | [ x ] | `João Bosco Monteiro` |
+| 01 | [Google Android: crie aplicações para celulares e tablets](http://www.casadocodigo.com.br/products/livro-android) | - [x] | `João Bosco Monteiro` |
 | 02 | [REST: Construa API's inteligentes de maneira simples](http://www.casadocodigo.com.br/products/livro-rest) | [ X ] | `Alexandre Saudate` |
 | 03 | [Java 8 Prático: Lambdas, Streams e os novos recursos da linguagem](http://www.casadocodigo.com.br/products/livro-java8) | [ x ] | `Paulo Silveira e Rodrigo Turini` |
 | 04 | [SOA aplicado: Integrando com web services e além](http://www.casadocodigo.com.br/products/livro-soa-webservices) | [ x ] | `Alexandre Saudate` |
