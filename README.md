@@ -13,8 +13,8 @@ Books I have read
     * [Java](#java)   
     * [Javascript](#javascript)
     * [Devops](#devops)
-    * [Clean Code](#clean-code)
-    * [Others](#others)
+  * [Database](database)
+  * [Others](#others)
   * [Resources](#resources)
     * [Free Resources](#free-resources)
     * [Paid Resources](#paid-resources)
@@ -54,18 +54,19 @@ Books I have read
 | 01 | [Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos](http://www.casadocodigo.com.br/products/livro-ferramentas-devops) | [  ] | `Gleicon Moraes` |
 
 
-### Clean Code
+### Database
 
 | Number | Name | Finished | Author |
 | :---: | :--- | :---: | :---: |
-| 01 | [Código Limpo](http://www.altabooks.com.br/codigo-limpo.html) | [ x ] | `Robert C. Martin (Uncle Bob)` |
+| 01 | [MongoDB: Construa novas aplicações com novas tecnologias](http://www.casadocodigo.com.br/products/livro-mongodb) | [  ] | `Fernando Boaglio` |
 
 ### Others
 
 | Number | Name | Finished | Author |
 | :---: | :--- | :---: | :---: |
 | 01 | [O Programador Apaixonado: Construindo uma carreira notável em desenvolvimento de software](http://www.casadocodigo.com.br/products/livro-programador-apaixonado) | [ x ] | ` Chad Fowler ` |
-
+| 02 | [Código Limpo](http://www.altabooks.com.br/codigo-limpo.html) | [ x ] | `Robert C. Martin (Uncle Bob)` |
+| 03 | [Controlando versões com Git e GitHub](http://www.casadocodigo.com.br/products/livro-git-github) | [ x ] | `Alexandre Aquiles e Rodrigo Ferreira` |
 
 # Resources
 
