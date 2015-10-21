@@ -59,6 +59,7 @@ Books I have read
 | Number | Name | Finished | Author |
 | :---: | :--- | :---: | :---: |
 | 01 | [MongoDB: Construa novas aplicações com novas tecnologias](http://www.casadocodigo.com.br/products/livro-mongodb) | [  ] | `Fernando Boaglio` |
+| 02 | [Armazenando dados com Redis](http://www.casadocodigo.com.br/products/livro-redis) | [  ] | `Rodrigo Lazoti` |
 
 ### Others
 
