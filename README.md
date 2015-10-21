@@ -43,7 +43,7 @@ Books I have read
 | :---: | :--- | :---: | :---: |
 | 01 | [Aplicações web real-time com Node.js](http://www.casadocodigo.com.br/products/livro-nodejs) | [  ] | `Caio Ribeiro Pereira` |
 | 02 | [Mean: Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node](http://www.casadocodigo.com.br/products/livro-mean) | [ ] | `Flávio Almeidaa` |
-| 03 | [Desenvolvendo com AngularJS](http://www.novatec.com.br/livros/angularjs/) | [ ] | `Shyam Seshadri & Brad Green`|
+| 03 | [Desenvolvendo com AngularJS](http://www.novatec.com.br/livros/angularjs/) | [ x ] | `Shyam Seshadri & Brad Green`|
 | 04 | [Dominando JavaScript com jQuery](http://www.casadocodigo.com.br/products/livro-javascript-jquery) | [ x ] | `Plínio Balduino`|
 
 
