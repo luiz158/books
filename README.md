@@ -60,6 +60,7 @@ Books I have read
 | :---: | :--- | :---: | :---: |
 | 01 | [MongoDB: Construa novas aplicações com novas tecnologias](http://www.casadocodigo.com.br/products/livro-mongodb) | [  ] | `Fernando Boaglio` |
 | 02 | [Armazenando dados com Redis](http://www.casadocodigo.com.br/products/livro-redis) | [  ] | `Rodrigo Lazoti` |
+| 03 | [NoSQL Um Guia Conciso para o Mundo Emergente da Persistência Poliglota](http://novatec.com.br/livros/nosql-essencial/) | [  ] | ` Pramod J. Sadalage & Martin Fowler` |
 
 ### Others
 
