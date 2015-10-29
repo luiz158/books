@@ -12,7 +12,7 @@ Books I have read
   * [Programming](#programming)
     * [Java](#java)   
     * [Javascript](#javascript)
-    * [Devops](#devops)
+  * [Devops](#devops)
   * [Database](database)
   * [Others](#others)
   * [Resources](#resources)
